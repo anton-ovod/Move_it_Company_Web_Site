@@ -7,7 +7,7 @@
 
 This is my first Pure Bootstrap 5 website, showcasing my web development skills using the latest version of Bootstrap.
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](preview.png)
 
 ## Demo
 
