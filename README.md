@@ -11,7 +11,7 @@ This is my first Pure Bootstrap 5 website, showcasing my web development skills 
 
 ## Demo
 
-You can see a live demo of the website at [Your Demo Link](https://anton-ovod.github.io/Move_it_Company_Web_Site/).
+You can see a live demo of the website at [Move It Website](https://anton-ovod.github.io/Move_it_Company_Web_Site/).
 
 ## Features
 
@@ -25,7 +25,7 @@ You can see a live demo of the website at [Your Demo Link](https://anton-ovod.gi
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `[git clone https://github.com/your-username/your-repo.git](https://github.com/anton-ovod/Move_it_Company_Web_Site)`
+1. Clone the repository: `https://github.com/anton-ovod/Move_it_Company_Web_Site`
 2. Open `index.html` in your preferred web browser.
 
 ## Usage
